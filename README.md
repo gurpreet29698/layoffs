@@ -4,16 +4,22 @@ This portfolio project analyzes global layoff trends from companies across vario
 
 ***STEPS AND PROCESS***
 
-***Data Cleaning**
+1. **Data Cleaning**
 
-*Eliminated duplicate entries to maintain data integrity and accuracy.  
+* Eliminated duplicate entries to maintain data integrity and accuracy.  
+* Standardized data formats across various fields to ensure consistency and reliability.  
+* Addressed missing values by either filling in blanks or removing incomplete entries, optimizing data completeness.
 
-*Standardized data formats across various fields to ensure consistency and reliability.  
+2. **Exploratory Data Analysis (EDA)**
 
-*Addressed missing values by either filling in blanks or removing incomplete entries, optimizing data completeness.
+* Analyzed key regions, companies, industries, and years to identify the highest occurrences of layoffs.
+* Applied rolling sums to track and visualize monthly layoff trends, providing a clearer understanding of the flow over time.
+* Ranked companies and years based on the magnitude of layoffs, highlighting critical periods and major contributors.
 
-***Exploratory Data Analysis (EDA)**
 
-Analyzed key regions, companies, industries, and years to identify the highest occurrences of layoffs.
-Applied rolling sums to track and visualize monthly layoff trends, providing a clearer understanding of the flow over time.
-Ranked companies and years based on the magnitude of layoffs, highlighting critical periods and major contributors.
+***INSIGHTS AND FINDINGS***
+
+Summarize some key findings here, such as:
+
+* Top affected countries and industries.
+* Key years with peak layoffs.
